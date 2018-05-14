@@ -1,0 +1,22 @@
+{
+  "name": "ERIEMendixQualityMonitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/filewriter": "0.0.28",
+    "@types/when": "^2.4.31",
+    "mendixmodelsdk": "^4.10.0",
+    "mendixplatformsdk": "^4.0.0",
+    "when": "^3.7.8"
+  },
+  "devDependencies": {
+    "@types/node": "^10.0.6"
+  }
+}
